@@ -11,7 +11,7 @@ A Python script designed to extract and decrypt saved passwords from popular web
 - Saves extracted credentials to a user-specified file.
 
   ## Directory Structure
-'''sql
+```sql
 
 main_directory/
 │

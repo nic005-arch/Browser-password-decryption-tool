@@ -11,25 +11,25 @@ A Python script designed to extract and decrypt saved passwords from popular web
 - Saves extracted credentials to a user-specified file.
 
   ## Directory Structure
-```sql
+  ```sql
 
-main_directory/
-│
-├── Chrome/
-│   ├── Login Data
-│   └── Local State
-│
-├── Brave/
-│   ├── Login Data
-│   └── Local State
-│
-├── Edge/
-│   ├── Login Data
-│   └── Local State
-│
-└── Firefox/
-    ├── logins.json
-    └── key4.db
+  main_directory/
+  │
+  ├── Chrome/
+  │   ├── Login Data
+  │   └── Local State
+  │
+  ├── Brave/
+  │   ├── Login Data
+  │   └── Local State
+  │
+  ├── Edge/
+  │   ├── Login Data
+  │   └── Local State
+  │
+  └── Firefox/
+      ├── logins.json
+      └── key4.db
 
 
 

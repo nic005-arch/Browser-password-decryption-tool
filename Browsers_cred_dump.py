@@ -230,7 +230,7 @@ def save_passwords_to_file(passwords, output_file):
             file.write("\n")
 
 def main():
-    base_path = input("Enter the path to the folder containing browser subfolders (e.g., E:\\nik): ")
+    base_path = input("Enter the path to the folder containing browser subfolders (e.g., E:\\dump): ")
     output_file = input("Enter the name of the output file: ")
 
     browsers = ['chrome', 'brave', 'edge', 'firefox']

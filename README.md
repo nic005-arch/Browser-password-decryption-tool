@@ -10,7 +10,7 @@ A Python script designed to extract and decrypt saved passwords from popular web
 - Handles both **JSON** and **SQLite** database formats.
 - Saves extracted credentials to a user-specified file.
 
-  ## Directory Structure
+## Directory Structure
   ```sql
 
   main_directory/
